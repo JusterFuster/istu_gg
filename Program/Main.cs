@@ -12,7 +12,7 @@ namespace LightControlSystem
         {
             Console.WriteLine("=== СИСТЕМА УПРАВЛЕНИЯ ОСВЕЩЕНИЕМ ===\n");
 
-            // Добавляем устройства
+            // Добавляем устройства 
             InitializeDevices();
 
             bool exit = false;

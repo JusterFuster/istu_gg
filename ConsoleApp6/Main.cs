@@ -51,7 +51,7 @@ namespace LightControlSystem
                         break;
                 }
 
-                Console.WriteLine("\nНажмите любую клавишу чтобы продолжить...");
+                Console.WriteLine("\nНажмите любую клавишу для продолжение...");
                 Console.ReadKey();
             }
         }
